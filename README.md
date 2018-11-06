@@ -1,11 +1,13 @@
 # ASAP
+Second Maching Learning Project for fall season 2018 독립연구2.
+
 ANY-maze Source Analysis Program
 
-2018 2학기 독립연구2 주제.
+    Source: WT & 5XFAD mice and also with treatment Using AD mice image of Behavior Test
 
-Using AD mice image of Behavior Test
 
-Template resourse from keras-
+
+
+20181030, Setting up the template.
 
 20181106, Combined prev. PPAP & tykimos.github.io/Keras/.
-    
