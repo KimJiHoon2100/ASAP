@@ -6,3 +6,6 @@ ANY-maze Source Analysis Program
 Using AD mice image of Behavior Test
 
 Template resourse from keras-
+
+20181106, Combined prev. PPAP & tykimos.github.io/Keras/.
+    
