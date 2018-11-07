@@ -11,3 +11,5 @@ ANY-maze Source Analysis Program
 20181030, Setting up the template.
 
 20181106, Combined prev. PPAP & tykimos.github.io/Keras/.
+
+20181107, Resourse data purification done, practicing one.
