@@ -13,3 +13,5 @@ ANY-maze Source Analysis Program
 20181106, Combined prev. PPAP & tykimos.github.io/Keras/.
 
 20181107, Resourse data purification done, practicing one.
+
+20181108, Test run, Open Field Test.
